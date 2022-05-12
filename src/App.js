@@ -1,6 +1,6 @@
 import './App.css';
-// eslint-disable-next-line no-unused-vars
 import 'react-toastify/dist/ReactToastify.css';
+// eslint-disable-next-line no-unused-vars
 import { db } from './firebase.config';
 import { ToastContainer } from 'react-toastify';
 import LoginFrom from './components/LoginFrom';
